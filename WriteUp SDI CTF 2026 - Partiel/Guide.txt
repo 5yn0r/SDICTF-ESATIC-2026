@@ -1,1 +1,7 @@
+## 📜 Guide.txt – Message de l’auteur
 
+> *Bonjour cher passionné,*
+>
+> *Je sais que vous ne serez pas entièrement satisfait à cause du caractère partiel des write-ups. Je n’ai pas eu l’occasion de faire des captures d’écran. Le serveur est actuellement hors ligne, vous ne pouvez donc pas résoudre les challenges web en ligne.*
+>
+> *Gardez toujours la méthodologie appliquée ici : elle vous sera utile dans d’autres contextes. Appliquez-la sérieusement et n’hésitez pas à corriger les éventuelles erreurs.*
